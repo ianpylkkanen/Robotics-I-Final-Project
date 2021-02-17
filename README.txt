@@ -1,4 +1,4 @@
-Robotics 1 Final Project Code
+Robotics 1 Final Project
 Rensselaer Polytechnic Institute
 December 2020
 
